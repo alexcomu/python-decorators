@@ -12,4 +12,4 @@ Introduction on Decorators
 
 To execute:
 
-python FILE_NAME
+sh exec_me.sh
