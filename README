@@ -1,15 +1,15 @@
-Tutorial: http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/
-
-Please before execute:
+* Before execute:
 
 $ pip install termcolor
 
-File 1.py:
+* File 1.py:
 Simple Introduction on Python function
 
-File 2.py:
+* File 2.py:
 Introduction on Decorators
 
-To execute:
+* File 3.py:
+First Example with Decorators
 
+* To execute:
 sh exec_me.sh
