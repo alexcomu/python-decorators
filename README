@@ -6,10 +6,17 @@ $ pip install termcolor
 Simple Introduction on Python function
 
 * File 2.py:
-Introduction on Decorators
+Simple Introduction on Python nested function
 
 * File 3.py:
+Introduction on Decorators
+
+* File 4.py:
 First Example with Decorators
 
+* File 5.py:
+@ usage
+
+
 * To execute:
-sh exec_me.sh
+python exec

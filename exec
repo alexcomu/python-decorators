@@ -1,0 +1,4 @@
+from os import listdir, system
+
+for file in [file for file in listdir(".") if file[-3:]==".py"]:
+  system("python %s" % file)
