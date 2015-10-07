@@ -4,3 +4,8 @@ Please before execute:
 
 $ pip install termcolor
 
+File 1.py:
+Simple Introduction on Python function
+
+File 2.py:
+Introduction on Decorators

@@ -18,5 +18,5 @@ def foo():
 decorated = outer(foo) # 2
 print decorated()
 
-print "We could say that the variable decorated is a decorated version of foo"
-print "- foo plus something"
+print colored("We could say that the variable decorated is a decorated version of foo", "blue")
+print colored("- foo plus something", "blue")
