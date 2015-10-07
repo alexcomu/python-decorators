@@ -1,9 +1,9 @@
 from termcolor import colored
-print colored("*************************************************","red")
+print colored("**********************************************************","red")
 print colored("Welcome to my Super fast Tutorial for PYTHON Decorators!","red")
 
 print colored("\n*** Lesson 1", "yellow")
-print colored("## Functions are Objects!", "green")
+print colored("## Functions are Objects!\n", "green")
 
 def add(x,y):
     print "_ ADD", x+y
@@ -20,7 +20,7 @@ apply(sub,10,5)
 
 
 print colored("\n*** Lesson 2", "yellow")
-print colored("## Closures!", "green")
+print colored("## Closures!\n", "green")
 
 def outer(x):
     def inner():
