@@ -17,6 +17,8 @@ First Example with Decorators
 * File 5.py:
 @ usage
 
+* File 6.py:
+Decorato Example
 
 * To execute:
 python run
