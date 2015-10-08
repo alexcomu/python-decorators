@@ -1,3 +1,7 @@
+from termcolor import colored
+print colored("\n*** Lesson 7", "yellow")
+print colored("## Function decorators!\n", "green")
+
 def mydecorator(f):
     def newfunc():
         print 'Before Func'

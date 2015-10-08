@@ -18,7 +18,13 @@ First Example with Decorators
 @ usage
 
 * File 6.py:
-Decorato Example
+Decorator Example
+
+* File 7.py:
+Function Decorator Example
+
+* File 8.py:
+Class Decorator Example
 
 * To execute:
 python run

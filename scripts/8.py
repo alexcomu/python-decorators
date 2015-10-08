@@ -1,3 +1,7 @@
+from termcolor import colored
+print colored("\n*** Lesson 8", "yellow")
+print colored("## Class decorators!\n", "green")
+
 class mydecorator(object):
     def __init__(self, before_text, after_text):
         self.before_text = before_text
